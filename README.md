@@ -49,11 +49,7 @@ source .venv/bin/activate       # on Linux/Mac
 ```
 
 ### 2️⃣ Install dependencies
-```bash
-pip install -e .
-```
-
-You can also install manually:
+You can install manually:
 ```bash
 pip install numpy pandas scikit-learn torch torchvision
 ```
