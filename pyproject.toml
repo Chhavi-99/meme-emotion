@@ -1,0 +1,16 @@
+[project]
+name = "meme-emotion"
+version = "0.1.0"
+description = "Meme emotion classification"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "torch; platform_system != 'Darwin' or platform_machine != 'arm64'",
+  "torchvision; platform_system != 'Darwin' or platform_machine != 'arm64'"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
