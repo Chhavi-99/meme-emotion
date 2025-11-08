@@ -1,6 +1,6 @@
 # Meme Emotion Classification 🧠🎭
 
-This project focuses on **classifying the emotional tone of memes** — using image, text, and multimodal (image + text) representations.  
+This project focuses on **classifying the emotional tone of memes** — using image, text, and multimodal (image + text) representations corresponding to the work titled: [SemEval-2020 Task 8: Memotion Analysis- the Visuo-Lingual Metaphor!](https://aclanthology.org/2020.semeval-1.99/).  
 It supports both **independent modality classification** and **fusion-based models** for richer emotion prediction.
 
 ---
