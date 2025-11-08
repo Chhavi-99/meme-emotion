@@ -106,5 +106,46 @@ python scripts/predict_sentiment.py --image_path <path_to_image> --text "example
 
 ---
 
+## 🔖 Citation
+
+If you use this repository, data, or model in your research or publications, please cite the following paper:
+
+> **Chhavi Sharma**, Deepesh Bhageria, William Scott, Srinivas PYKL, Amitava Das, Tanmoy Chakraborty, Viswanath Pulabaigari, and Björn Gambäck.  
+> *SemEval-2020 Task 8: Memotion Analysis — The Visuo-Lingual Metaphor!*  
+> In *Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona (online), December 2020.  
+> [[Paper Link]](https://aclanthology.org/2020.semeval-1.99/)  
+> DOI: [10.18653/v1/2020.semeval-1.99](https://doi.org/10.18653/v1/2020.semeval-1.99)
+
+#### 📚 BibTeX
+
+```bibtex
+@inproceedings{sharma-etal-2020-semeval,
+    title = "{S}em{E}val-2020 Task 8: Memotion Analysis- the Visuo-Lingual Metaphor!",
+    author = {Sharma, Chhavi  and
+      Bhageria, Deepesh  and
+      Scott, William  and
+      PYKL, Srinivas  and
+      Das, Amitava  and
+      Chakraborty, Tanmoy  and
+      Pulabaigari, Viswanath  and
+      Gamb{\"a}ck, Bj{\"o}rn},
+    editor = "Herbelot, Aurelie  and
+      Zhu, Xiaodan  and
+      Palmer, Alexis  and
+      Schneider, Nathan  and
+      May, Jonathan  and
+      Shutova, Ekaterina",
+    booktitle = "Proceedings of the Fourteenth Workshop on Semantic Evaluation",
+    month = dec,
+    year = "2020",
+    address = "Barcelona (online)",
+    publisher = "International Committee for Computational Linguistics",
+    url = "https://aclanthology.org/2020.semeval-1.99/",
+    doi = "10.18653/v1/2020.semeval-1.99",
+    pages = "759--773"
+}
+
+---
+
 ## 🪪 License
 MIT License © 2025 Chhavi Sharma
