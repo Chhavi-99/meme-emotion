@@ -144,8 +144,8 @@ If you use this repository, data, or model in your research or publications, ple
     doi = "10.18653/v1/2020.semeval-1.99",
     pages = "759--773"
 }
-
+```
 ---
 
 ## 🪪 License
-MIT License © 2025 Chhavi Sharma
+MIT License © 2020 Chhavi Sharma
